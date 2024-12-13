@@ -1,0 +1,349 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "name": "Charlie Green",
+      "email": "charlie.green@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "active",
+      "region": "Africa",
+      "registeredAt": "2023-08-30",
+      "dob": "1983-11-11",
+      "password": "charlie555"
+    },
+    {
+      "id": "6",
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "gender": "female",
+      "role": "user",
+      "status": "active",
+      "region": "Europe",
+      "registeredAt": "2023-10-01",
+      "dob": "1994-03-12",
+      "password": "emily123"
+    },
+    {
+      "id": "10",
+      "name": "Laura Moore",
+      "email": "laura.moore@example.com",
+      "gender": "female",
+      "role": "user",
+      "status": "active",
+      "region": "Africa",
+      "registeredAt": "2023-08-05",
+      "dob": "1993-05-28",
+      "password": "laura456"
+    },
+    {
+      "id": "11",
+      "name": "James White",
+      "email": "james.white@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "inactive",
+      "region": "North America",
+      "registeredAt": "2023-07-15",
+      "dob": "1991-12-03",
+      "password": "james789"
+    },
+    {
+      "id": "13",
+      "name": "Daniel Martin",
+      "email": "daniel.martin@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "active",
+      "region": "Asia",
+      "registeredAt": "2023-06-25",
+      "dob": "1998-08-10",
+      "password": "daniel456"
+    },
+    {
+      "id": "14",
+      "name": "Olivia Thompson",
+      "email": "olivia.thompson@example.com",
+      "gender": "female",
+      "role": "user",
+      "status": "inactive",
+      "region": "South America",
+      "registeredAt": "2023-09-03",
+      "dob": "1997-10-30",
+      "password": "olivia789"
+    },
+    {
+      "id": "15",
+      "name": "William Garcia",
+      "email": "william.garcia@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "active",
+      "region": "Africa",
+      "registeredAt": "2023-08-16",
+      "dob": "1992-06-11",
+      "password": "william123"
+    },
+    {
+      "id": "16",
+      "name": "Amelia Clark",
+      "email": "amelia.clark@example.com",
+      "gender": "female",
+      "role": "user",
+      "status": "inactive",
+      "region": "North America",
+      "registeredAt": "2023-07-11",
+      "dob": "1995-02-14",
+      "password": "amelia456"
+    },
+    {
+      "id": "17",
+      "name": "Matthew Lewis",
+      "email": "matthew.lewis@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "active",
+      "region": "Europe",
+      "registeredAt": "2023-06-08",
+      "dob": "1993-09-01",
+      "password": "matthew789"
+    },
+    {
+      "id": "18",
+      "name": "Charlotte Walker",
+      "email": "charlotte.walker@example.com",
+      "gender": "female",
+      "role": "user",
+      "status": "active",
+      "region": "Asia",
+      "registeredAt": "2023-05-30",
+      "dob": "1999-07-18",
+      "password": "charlotte123"
+    },
+    {
+      "id": "19",
+      "name": "Andrew Hall",
+      "email": "andrew.hall@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "inactive",
+      "region": "South America",
+      "registeredAt": "2023-09-18",
+      "dob": "1994-11-24",
+      "password": "andrew456"
+    },
+    {
+      "id": "20",
+      "name": "Victoria Allen",
+      "email": "victoria.allen@example.com",
+      "gender": "female",
+      "role": "user",
+      "status": "active",
+      "region": "Africa",
+      "registeredAt": "2023-10-04",
+      "dob": "1988-03-03",
+      "password": "victoria789"
+    },
+    {
+      "id": "21",
+      "name": "Ethan Young",
+      "email": "ethan.young@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "active",
+      "region": "North America",
+      "registeredAt": "2023-07-23",
+      "dob": "1997-01-15",
+      "password": "ethan123"
+    },
+    {
+      "id": "22",
+      "name": "Abigail King",
+      "email": "abigail.king@example.com",
+      "gender": "female",
+      "role": "user",
+      "status": "inactive",
+      "region": "Europe",
+      "registeredAt": "2023-06-12",
+      "dob": "1996-04-05",
+      "password": "abigail456"
+    },
+    {
+      "id": "23",
+      "name": "Alexander Scott",
+      "email": "alexander.scott@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "active",
+      "region": "Asia",
+      "registeredAt": "2023-08-22",
+      "dob": "1995-10-14",
+      "password": "alexander789"
+    },
+    {
+      "id": "24",
+      "name": "Grace Green",
+      "email": "grace.green@example.com",
+      "gender": "female",
+      "role": "user",
+      "status": "active",
+      "region": "South America",
+      "registeredAt": "2023-09-17",
+      "dob": "1993-12-28",
+      "password": "grace123"
+    },
+    {
+      "id": "25",
+      "name": "Logan Adams",
+      "email": "logan.adams@example.com",
+      "gender": "male",
+      "role": "user",
+      "status": "active",
+      "region": "Africa",
+      "registeredAt": "2023-07-06",
+      "dob": "1990-02-07",
+      "password": "logan456"
+    },
+    {
+      "id": "e6e9",
+      "name": "vivek",
+      "email": "vivek29876@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "dob": "2000-04-27",
+      "password": "12345"
+    },
+    {
+      "id": "7fa2",
+      "name": "Rajesh",
+      "email": "vivek29876@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "dob": "2000-04-27",
+      "password": "12345"
+    },
+    {
+      "id": "f9f7",
+      "name": "Aryan",
+      "email": "aryan@gmail.com",
+      "gender": "male",
+      "role": "user",
+      "dob": "2000-12-12",
+      "password": "12345"
+    },
+    {
+      "id": "c92d",
+      "name": "kirti",
+      "email": "kirti@gmail.com",
+      "gender": "female",
+      "role": "user",
+      "dob": "1999-12-12",
+      "password": "12345"
+    },
+    {
+      "id": "899b",
+      "name": "pks",
+      "email": "pks@gmail.com",
+      "gender": "male",
+      "role": "user",
+      "dob": "2001-12-12",
+      "password": "12345"
+    }
+  ],
+  "charts": {
+    "userStats": [
+      {
+        "month": "January",
+        "active": 120,
+        "inactive": 30
+      },
+      {
+        "month": "February",
+        "active": 110,
+        "inactive": 40
+      },
+      {
+        "month": "March",
+        "active": 130,
+        "inactive": 25
+      },
+      {
+        "month": "April",
+        "active": 140,
+        "inactive": 20
+      },
+      {
+        "month": "May",
+        "active": 150,
+        "inactive": 15
+      },
+      {
+        "month": "June",
+        "active": 160,
+        "inactive": 10
+      }
+    ]
+  },
+  "userRegistrationTrend": {
+    "months": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "registrations": [
+      12,
+      30,
+      10,
+      18,
+      20,
+      40
+    ]
+  },
+  "registrations-status": [
+    {
+      "month": "January",
+      "activeUsers": 10,
+      "inactiveUsers": 5,
+      "id": "65d3"
+    },
+    {
+      "month": "February",
+      "activeUsers": 45,
+      "inactiveUsers": 5,
+      "id": "c531"
+    },
+    {
+      "month": "March",
+      "activeUsers": 30,
+      "inactiveUsers": 5,
+      "id": "fe9a"
+    },
+    {
+      "month": "April",
+      "activeUsers": 16,
+      "inactiveUsers": 5,
+      "id": "dd2b"
+    },
+    {
+      "month": "May",
+      "activeUsers": 20,
+      "inactiveUsers": 5,
+      "id": "1bab"
+    },
+    {
+      "month": "June",
+      "activeUsers": 20,
+      "inactiveUsers": 5,
+      "id": "e721"
+    },
+    {
+      "month": "July",
+      "activeUsers": 20,
+      "inactiveUsers": 5,
+      "id": "31eb"
+    }
+  ]
+}
